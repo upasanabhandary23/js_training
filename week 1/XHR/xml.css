@@ -1,0 +1,14 @@
+h2 {
+    background-color: burlywood;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    color: darkblue;
+}
+
+div.categories {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 2px;
+    cursor: pointer;
+}
